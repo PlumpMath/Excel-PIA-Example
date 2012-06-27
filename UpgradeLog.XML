@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JustAProgrammer.PIA.Excel-2010">
+</Property><Property Name="Solution File" Value="C:\Users\jdearing\Documents\Visual Studio 2008\Projects\JustAProgrammer.PIA.Excel\JustAProgrammer.PIA.Excel-2010.sln">
+</Property><Property Name="Date" Value="Tuesday, June 26, 2012">
+</Property><Property Name="Time" Value="21:17 PM">
+</Property></Properties><Event ErrorLevel="0" Project="JustAProgrammer.PIA.Excel" Source="JustAProgrammer.PIA.Excel\JustAProgrammer.PIA.Excel.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="JustAProgrammer.PIA.Excel" Source="JustAProgrammer.PIA.Excel\JustAProgrammer.PIA.Excel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="JustAProgrammer.PIA.Excel-2010.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="JustAProgrammer.PIA.Excel-2010.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JustAProgrammer.PIA.Excel" Source="JustAProgrammer.PIA.Excel\JustAProgrammer.PIA.Excel.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
